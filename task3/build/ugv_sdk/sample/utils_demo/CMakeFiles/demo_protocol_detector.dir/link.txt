@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/demo_protocol_detector.dir/demo_protocol_detector.cpp.o  -o /home/agilex/Desktop/Software/task3/devel/lib/ugv_sdk/demo_protocol_detector -Wl,-rpath,/home/agilex/Desktop/Software/task3/devel/lib /home/agilex/Desktop/Software/task3/devel/lib/libugv_sdk.so -lpthread 

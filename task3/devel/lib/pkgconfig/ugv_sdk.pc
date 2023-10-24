@@ -1,0 +1,8 @@
+prefix=/home/agilex/Desktop/Software/task3/devel
+
+Name: ugv_sdk
+Description: Description of ugv_sdk
+Version: 0.1.6
+Cflags: -I/home/agilex/Desktop/Software/task3/src/ugv_sdk/include
+Libs: -L${prefix}/lib -lugv_sdk
+Requires: 

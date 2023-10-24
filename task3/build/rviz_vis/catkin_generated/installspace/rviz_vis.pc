@@ -1,0 +1,8 @@
+prefix=/home/agilex/Desktop/Software/task3/install
+
+Name: rviz_vis
+Description: Description of rviz_vis
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

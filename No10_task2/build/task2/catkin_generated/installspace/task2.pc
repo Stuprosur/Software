@@ -1,0 +1,8 @@
+prefix=/home/agilex/Desktop/Software/No10_task2/install
+
+Name: task2
+Description: Description of task2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

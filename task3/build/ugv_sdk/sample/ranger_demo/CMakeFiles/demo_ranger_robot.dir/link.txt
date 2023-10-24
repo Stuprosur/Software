@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/demo_ranger_robot.dir/ranger_robot_demo.cpp.o  -o /home/agilex/Desktop/Software/task3/devel/lib/ugv_sdk/demo_ranger_robot -Wl,-rpath,/home/agilex/Desktop/Software/task3/devel/lib /home/agilex/Desktop/Software/task3/devel/lib/libugv_sdk.so -lpthread 

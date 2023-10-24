@@ -1,0 +1,2 @@
+set(scout_msgs_MESSAGE_FILES "/home/agilex/Desktop/Software/task3/src/scout_ros/scout_msgs/msg/ScoutStatus.msg;/home/agilex/Desktop/Software/task3/src/scout_ros/scout_msgs/msg/ScoutMotorState.msg;/home/agilex/Desktop/Software/task3/src/scout_ros/scout_msgs/msg/ScoutLightState.msg;/home/agilex/Desktop/Software/task3/src/scout_ros/scout_msgs/msg/ScoutLightCmd.msg;/home/agilex/Desktop/Software/task3/src/scout_ros/scout_msgs/msg/ScoutBmsStatus.msg;/home/agilex/Desktop/Software/task3/src/scout_ros/scout_msgs/msg/ScoutDriverState.msg")
+set(scout_msgs_SERVICE_FILES "")

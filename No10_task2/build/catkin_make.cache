@@ -1,0 +1,2 @@
+task2
+-DCATKIN_DEVEL_PREFIX=/home/agilex/Desktop/Software/No10_task2/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/Desktop/Software/No10_task2/install -G Unix Makefiles

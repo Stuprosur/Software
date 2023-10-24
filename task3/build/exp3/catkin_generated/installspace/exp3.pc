@@ -1,0 +1,8 @@
+prefix=/home/agilex/Desktop/Software/task3/install
+
+Name: exp3
+Description: Description of exp3
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lexp3
+Requires: roscpp roslaunch scout_msgs sensor_msgs ugv_sdk

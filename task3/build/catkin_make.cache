@@ -1,0 +1,2 @@
+exp3:rviz_vis:scout_ros/scout_base:scout_ros/scout_bringup:scout_ros/scout_description:scout_ros/scout_msgs:ugv_sdk
+-DCATKIN_DEVEL_PREFIX=/home/agilex/Desktop/Software/task3/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/Desktop/Software/task3/install -G Unix Makefiles
